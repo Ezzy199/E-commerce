@@ -1,4 +1,4 @@
-# ecommerce_online_c11
+# E-commerce
 
 A new Flutter project.
 
